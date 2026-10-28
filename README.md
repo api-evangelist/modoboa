@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Modoboa is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://modoboa.org/
+Modoboa is an open-source mail hosting and management platform that provides a modern web interface for managing email domains, mailboxes, and related services. It integrates with Postfix and Dovecot, offering RESTful API access for automation and third‑party integration, and supports features such as DKIM, DMARC, SPF, and user-friendly administration tools.
+
+**Areas:** Email · Mail Server · Open Source · Webmail · Management · Company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://modoboa.org/)
+- [Documentation](https://modoboa.readthedocs.io/en/latest/)
+- [Support](https://modoboa.org/en/contact/)
+- [Blog](https://modoboa.org/en/blog/)
+- [Terms of service](https://modoboa.org/en/legal-notice/)
+- [Privacy policy](https://modoboa.org/en/privacy-policy/)
+- [GitHub](https://github.com/modoboa)
+
+**APIs profiled:** 35
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/modoboa/](https://apis.io/providers/modoboa/).
